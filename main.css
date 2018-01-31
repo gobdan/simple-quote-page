@@ -1,3 +1,20 @@
-p {
+.wrapper {
   text-align: center;
+  background: hsla(100,0%,0%,.6);
+  width: 90%;
+  margin: 10vh auto auto;
+  color: white;
+  padding: 1rem;
+  border-radius: 5px;
+}
+.quote {
+  font-family: 'Julius Sans One', sans-serif;
+  font-weight: 300
+}
+.author {
+  font-family: 'Crimson Text', serif;
+  }
+body {
+  background: url(assets/damigene.jpg) no-repeat 70%center fixed;
+  background-size:cover;
 }
